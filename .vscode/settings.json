@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "search.exclude": {
+    "**/dist/**": true // set this to false to include "dist" folders in search results
+  },
+  "cSpell.words": [
+    "Säätze",
+    "Tagg",
+    "Tanmay",
+    "Vieww",
+    "Viewww",
+    "Viewwww",
+    "blabla",
+    "bodyy",
+    "buttonn",
+    "divx",
+    "headd",
+    "plaîît",
+    "spann",
+    "studentt",
+    "tton",
+    "vous",
+    "xmll",
+    "ΚΑΛΗ",
+    "ΚΑΛΗΣΠΕΡΑ",
+    "ΚΑΛΗΣΣΠΕΡΑ",
+    "ΣΠΕΡΑ"
+  ]
+}

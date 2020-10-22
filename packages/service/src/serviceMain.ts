@@ -1,0 +1,1 @@
+export { doAutoRenameTag } from './doAutoRenameTag';
